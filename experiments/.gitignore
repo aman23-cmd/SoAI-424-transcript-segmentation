@@ -1,0 +1,9 @@
+# Transcripts are not redistributed (see Data permissions in the methodology)
+data/transcripts/*.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+tests/_synthetic/
+tests/_synthetic_out/

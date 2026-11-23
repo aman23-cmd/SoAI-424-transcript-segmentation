@@ -1,0 +1,14 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "chunk_lines": 5,
+  "semantic": {
+    "threshold_grid": [0.35, 0.45, 0.55],
+    "min_words": 80,
+    "max_words": 250
+  },
+  "baseline": {
+    "fixed_window_grid_extra": [100, 250]
+  },
+  "boundary_tolerance_sec": 30,
+  "recall_k": [1, 3]
+}
