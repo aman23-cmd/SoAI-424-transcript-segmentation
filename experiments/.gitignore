@@ -7,3 +7,4 @@ venv/
 
 tests/_synthetic/
 tests/_synthetic_out/
+data/transcripts_txt/
