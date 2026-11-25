@@ -121,6 +121,8 @@ def main():
     ap.add_argument("--out-dir", default="results")
     ap.add_argument("--config", default="config.json")
     ap.add_argument("--fake-embedder", action="store_true", help="smoke test only; never for reported results")
+    ap.add_argument("--baseline-window", type=int, default=None,
+                    help="sensitivity run only: override the dev-chosen fixed window")
     a = ap.parse_args()
 
     cfg = json.loads(Path(a.config).read_text())
@@ -161,6 +163,8 @@ def main():
         fix_grid[w] = summ
         dev_rows += [{"method": "fixed", "setting": w, **r} for r in rows]
     best_w = choose(fix_grid)
+    if a.baseline_window:
+        best_w = a.baseline_window
 
     # 4. test, once, frozen settings
     test_rows = []
@@ -222,6 +226,7 @@ def main():
         "n_dev_videos": len(dev), "n_test_videos": len(test),
         "data_sha256": {n: sha256(Path(a.data_dir) / n) for n in ("videos.csv", "boundaries_final.csv", "queries.csv")},
     }
+    manifest["sensitivity_override_window"] = a.baseline_window
     try:
         import sentence_transformers; manifest["sentence_transformers"] = sentence_transformers.__version__
     except Exception:

@@ -1,10 +1,51 @@
 video_id,question,answer_start_sec,answer_end_sec
-u-OmVr_fT4s,What is the main concept explained in this video?,0,60
-_nmm0nZqIIY,What is the main concept explained in this video?,0,60
-JFuMei9Wwk4,What topic is covered in this lecture?,0,60
-Ctqi5Y4X-jA,What is the main concept explained in this video?,0,60
-rH0winlka8A,What is the main concept explained in this video?,0,60
-qp8u-frRAnU,What is the main concept explained in this video?,0,60
-4r_XR9fUPhQ,What is the main concept explained in this video?,0,60
-SiBw7os-_zI,What is the main concept explained in this video?,0,60
-qZ_J-Xg0QM4,What is the main concept explained in this video?,0,60
+u-OmVr_fT4s,What is the difference between a parameter and an argument in Python functions?,198,212
+u-OmVr_fT4s,What do Python functions return by default if no return statement is specified?,475,500
+u-OmVr_fT4s,Where should optional parameters with default values be placed in a Python function definition?,713,742
+u-OmVr_fT4s,How does Python package multiple keyword arguments when using a double asterisk parameter?,1101,1120
+u-OmVr_fT4s,Why is modifying a global variable inside a function considered a bad practice?,1405,1437
+Ctqi5Y4X-jA,What does using a negative index like -1 return when accessing a character in a Python string?,175,200
+Ctqi5Y4X-jA,How can you include a double quote inside a Python string that is already enclosed in double quotes?,373,416
+Ctqi5Y4X-jA,How do formatted strings (f-strings) evaluate variables and expressions inside curly braces?,535,580
+Ctqi5Y4X-jA,Does calling a string method like upper() modify the original string in Python?,702,724
+Ctqi5Y4X-jA,What is the difference between the find() method and the in operator when searching a string?,919,937
+N8XHwQxubqU,What are the three levels of DBMS architecture and what does each level handle?,212,258
+N8XHwQxubqU,What is the difference between entity integrity and referential integrity constraints?,535,552
+N8XHwQxubqU,"What do 1NF, 2NF, and 3NF remove during database normalization?",590,619
+N8XHwQxubqU,What are the five categories of SQL commands and what is each used for?,663,700
+N8XHwQxubqU,What do the four ACID properties stand for in database transactions?,760,783
+_nmm0nZqIIY,What is a stack trace in Java and why is it useful when troubleshooting exceptions?,177,190
+_nmm0nZqIIY,What is the difference between checked exceptions and unchecked (runtime) exceptions in Java?,334,355
+_nmm0nZqIIY,What is at the top of the Java exceptions hierarchy and how are checked and unchecked exceptions distinguished in it?,484,527
+_nmm0nZqIIY,Why does the order of catch blocks matter when handling related exception types like FileNotFoundException and IOException?,921,965
+_nmm0nZqIIY,When does the finally block execute in a try-catch-finally structure?,1314,1345
+JFuMei9Wwk4,"What is a functional interface in Java, and does adding default or static methods change it?",137,162
+JFuMei9Wwk4,"When should you use an anonymous inner class in Java, and why is it called that?",272,308
+JFuMei9Wwk4,When can you omit parentheses and parameter types in a Java lambda expression?,477,508
+JFuMei9Wwk4,What are the main differences between lambda expressions and anonymous inner classes regarding the 'this' keyword and instance fields?,643,682
+JFuMei9Wwk4,"When should you use a method reference instead of a lambda expression, and what is its syntax?",690,724
+qp8u-frRAnU,What happens in memory when you try to insert a new element into a dynamic array that has reached full capacity?,153,198
+qp8u-frRAnU,What are the two main benefits of a linked list over an array?,309,339
+qp8u-frRAnU,"How is a doubly linked list different from a singly linked list, and what does it make easier?",354,397
+qp8u-frRAnU,Why is accessing an element by index O(1) in an array but O(n) in a linked list?,403,436
+qp8u-frRAnU,Why do you need to stop at the previous element (index - 1) when removing a node at a given index in a linked list?,1167,1216
+4r_XR9fUPhQ,"Why can't linear data structures like linked lists, stacks, or queues be used to represent a product hierarchy?",70,95
+4r_XR9fUPhQ,"In tree terminology, what are leaf nodes, ancestors, and descendants?",167,197
+4r_XR9fUPhQ,What is the difference between a general tree and a binary tree?,208,223
+4r_XR9fUPhQ,Why is each element in the children list an instance of the TreeNode class?,246,266
+4r_XR9fUPhQ,How does the get_level method calculate the level of a node in the tree?,1002,1042
+SiBw7os-_zI,What was the main limitation of structures in C that objects in OOP solved?,299,320
+SiBw7os-_zI,"What is encapsulation in object-oriented programming, and how should other classes interact with an object's attributes?",467,499
+SiBw7os-_zI,"In abstraction, what is the difference between an interface and its implementation?",897,918
+SiBw7os-_zI,Where can a protected variable be accessed in an inheritance hierarchy?,1344,1361
+SiBw7os-_zI,"What is static polymorphism (method overloading), and how are overloaded methods differentiated?",1565,1601
+drQK8ciCAjY,How can you tell primitive types apart from non-primitive types like String in Java?,255,288
+drQK8ciCAjY,"What does the void keyword mean in a Java method declaration, and how do you make a method return a value instead?",467,495
+drQK8ciCAjY,Why do you use double equals (==) instead of a single equals (=) to check equality in Java?,551,565
+drQK8ciCAjY,What is the difference between using the public and private keywords on a method in Java?,652,667
+drQK8ciCAjY,What is the difference between calling a static method and a non-static method in Java?,810,858
+wbaEgUjQyZM,"How do objects relate to a class in OOP, and can different objects from the same class have unique attribute values?",125,147
+wbaEgUjQyZM,How do public methods and private attributes work together to achieve encapsulation in OOP?,519,542
+wbaEgUjQyZM,What is the difference between an abstract class and an interface in object-oriented programming?,725,754
+wbaEgUjQyZM,What is the difference between method overriding and method overloading in achieving polymorphism?,882,913
+wbaEgUjQyZM,How does aggregation differ from composition in terms of whether the part can exist independently of the whole?,1065,1112

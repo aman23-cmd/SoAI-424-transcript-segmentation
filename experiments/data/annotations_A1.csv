@@ -1,0 +1,67 @@
+video_id,boundary_time_sec,topic_label,annotatoru-OmVr_fT4s,149,Parameters and arguments,A1
+u-OmVr_fT4s,291,Types of functions and return values,A1
+u-OmVr_fT4s,535,Keyword arguments,A1
+u-OmVr_fT4s,657,Default (optional) parameters,A1
+u-OmVr_fT4s,754,Variable number of arguments (*args),A1
+u-OmVr_fT4s,1010,Arbitrary keyword arguments (kwargs),A1
+u-OmVr_fT4s,1151,Scope (local and global variables),A1
+Ctqi5Y4X-jA,136,Variables and primitive types,A1
+Ctqi5Y4X-jA,271,Strings and calling methods,A1
+Ctqi5Y4X-jA,353,Creating custom methods,A1
+Ctqi5Y4X-jA,506,Conditional statements,A1
+Ctqi5Y4X-jA,575,Loops (for loop),A1
+Ctqi5Y4X-jA,622,Classes and objects (OOP),A1
+Ctqi5Y4X-jA,799,Static vs non-static methods,A1
+N8XHwQxubqU,195,Three-level architecture and data abstraction,A1
+N8XHwQxubqU,281,Types of data models,A1
+N8XHwQxubqU,371,Entity-Relationship (ER) model,A1
+N8XHwQxubqU,462,Relational keys and integrity constraints,A1
+N8XHwQxubqU,562,Normalization (1NF to BCNF),A1
+N8XHwQxubqU,649,"SQL commands, joins, and performance features",A1
+N8XHwQxubqU,742,"Transactions, ACID properties, and concurrency",A1
+N8XHwQxubqU,821,Distributed databases and NoSQL,A1
+_nmm0nZqIIY,258,"Types of exceptions (checked, unchecked, errors)",A1
+_nmm0nZqIIY,480,Exceptions hierarchy,A1
+_nmm0nZqIIY,606,Catching exceptions (try-catch),A1
+_nmm0nZqIIY,839,Catching multiple types of exceptions,A1
+_nmm0nZqIIY,1107,The finally block,A1
+JFuMei9Wwk4,264,Anonymous inner classes,A1
+JFuMei9Wwk4,349,Lambda expressions,A1
+JFuMei9Wwk4,573,Variable capture in lambdas,A1
+JFuMei9Wwk4,690,Method references,A1
+qp8u-frRAnU,198,Linked list concept and insertion,A1
+qp8u-frRAnU,397,Big O complexity comparison (Array vs Linked List),A1
+qp8u-frRAnU,478,"Python implementation: Node, LinkedList, insert_at_beginning, print",A1
+qp8u-frRAnU,741,Implementing insert_at_end,A1
+qp8u-frRAnU,884,Implementing insert_values and get_length,A1
+qp8u-frRAnU,1001,Implementing remove_at,A1
+qp8u-frRAnU,1282,Implementing insert_at,A1
+qp8u-frRAnU,1560,Practice exercises,A1
+4r_XR9fUPhQ,150,"Tree terminology (root, leaf, parent, levels)",A1
+4r_XR9fUPhQ,223,Python implementation: TreeNode class and add_child,A1
+4r_XR9fUPhQ,351,Building the product tree (build_product_tree),A1
+4r_XR9fUPhQ,650,Printing the tree recursively (print_tree),A1
+4r_XR9fUPhQ,888,Indentation and get_level method,A1
+4r_XR9fUPhQ,1314,Practice exercises,A1
+SiBw7os-_zI,320,Objects and classes,A1
+SiBw7os-_zI,458,Encapsulation,A1
+SiBw7os-_zI,768,Abstraction,A1
+SiBw7os-_zI,1071,Inheritance,A1
+SiBw7os-_zI,1231,"Access modifiers (public, private, protected)",A1
+SiBw7os-_zI,1369,Polymorphism (dynamic polymorphism),A1
+SiBw7os-_zI,1565,Static polymorphism (method overloading),A1
+drQK8ciCAjY,136,Variables and primitive types,A1
+drQK8ciCAjY,271,Strings and calling methods,A1
+drQK8ciCAjY,353,Creating custom methods,A1
+drQK8ciCAjY,506,Conditional statements,A1
+drQK8ciCAjY,575,Loops (for loop),A1
+drQK8ciCAjY,622,Classes and objects (OOP),A1
+drQK8ciCAjY,799,Static vs non-static methods,A1
+wbaEgUjQyZM,190,Methods in OOP,A1
+wbaEgUjQyZM,266,Inheritance,A1
+wbaEgUjQyZM,429,Encapsulation,A1
+wbaEgUjQyZM,593,Abstraction,A1
+wbaEgUjQyZM,817,Polymorphism,A1
+wbaEgUjQyZM,970,"Class relationships (Association, Aggregation, Composition, Dependency)",A1
+wbaEgUjQyZM,1192,Real-world benefits of OOP,A1
+wbaEgUjQyZM,1441,Structuring an OOP program,A1

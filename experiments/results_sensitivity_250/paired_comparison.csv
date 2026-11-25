@@ -1,0 +1,11 @@
+metric,mean_diff_semantic_minus_fixed,wilcoxon_p,semantic_better_videos,ties,fixed_better_videos
+boundary_f1,0.015868065119876283,0.9375,3,0,4
+boundary_precision,-0.020123081797408283,0.578125,2,0,5
+boundary_recall,0.223469387755102,0.0625,5,2,0
+pk,-0.0035293015568910813,0.8125,3,2,2
+windowdiff,0.13352978414839367,0.015625,0,0,7
+recall@1,7.93016446160826e-18,0.9375,2,2,3
+recall@3,0.0,1.0,0,7,0
+mrr,-0.0005668934240362791,1.0,2,1,4
+n_segments,6.285714285714286,0.015625,,,
+mean_segment_words,-78.45803030163931,0.015625,,,
